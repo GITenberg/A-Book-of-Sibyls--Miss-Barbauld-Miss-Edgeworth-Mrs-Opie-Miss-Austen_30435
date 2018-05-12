@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34609
     wikipedia: http://en.wikipedia.org/wiki/Anne_Isabella_Thackeray_Ritchie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30435#A-Book-of-Sibyls--Miss-Barbauld-Miss-Edgeworth-Mrs-Opie-Miss-Austen
 gutenberg_issued: '2009-11-09'
 gutenberg_type: Text
 identifiers:
